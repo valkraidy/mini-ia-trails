@@ -1,0 +1,11 @@
+{
+  "name": "mini-ia",
+  "version": "1.0.0",
+  "description": "This is my main project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Val Kraidy",
+  "license": "ISC"
+}
